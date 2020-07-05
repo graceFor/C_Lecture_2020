@@ -11,4 +11,4 @@
 - [x] Lecture 9
 - [x] Lecture 10
 - [x] Lecture 11
-- [ ] Lecture 12
+- [x] Lecture 12
